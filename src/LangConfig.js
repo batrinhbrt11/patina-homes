@@ -1,8 +1,9 @@
 const patinaContent = {
     EN:{
         navMenuHome: "Home",
-        navMenuAbout:"About",
-        navMenuGallery:"Gallery",
+        navMenuProduct:"Gallery",
+        navMenuProject:"Project",
+        navMenuService:"Service",
         homeAboutMainTitle:"A few words",
         homeAboutSubTitle:"About us",
         homeAboutDescription:"Interior Studio was founded in 1993 and has become locally and nationally recognized as a leading Interior Design Firm. Innovative techniques, customized interior planning, and impeccable service have allowed us to skyrocket to success and maintain a strong and loyal clientele.",
@@ -24,11 +25,17 @@ const patinaContent = {
         homeReasonDescription2:"The essence of our development process is to reinvent spaces and environments.",
         homeReasonTitle3:"Urban Design",
         homeReasonDescription3:"The essence of our development process is to reinvent spaces and environments.",
+        category1:"Chairs",
+        category2:"Tables",
+        category3:"Lamps",
+        category4:"Sofas",
+        category5:"Beds"
     },
     VN:{
         navMenuHome: "Trang chủ",
-        navMenuAbout:"Giới thiệu",
-        navMenuGallery:"Trưng bày", 
+        navMenuProduct:"Sản phẩm", 
+        navMenuProject:"Dự án",
+        navMenuService:"Dịch vụ",
         homeAboutMainTitle:"Đôi dòng",
         homeAboutSubTitle:"Về chúng tôi",
         homeAboutDescription:"Interior Studio was founded in 1993 and has become locally and nationally recognized as a leading Interior Design Firm. Innovative techniques, customized interior planning, and impeccable service have allowed us to skyrocket to success and maintain a strong and loyal clientele.",
@@ -50,6 +57,11 @@ const patinaContent = {
         homeReasonDescription2:"The essence of our development process is to reinvent spaces and environments.",
         homeReasonTitle3:"Urban Design",
         homeReasonDescription3:"The essence of our development process is to reinvent spaces and environments.",
+        category1:"Ghế",
+        category2:"Bàn",
+        category3:"Đèn ngủ",
+        category4:"Sofa",
+        category5:"Giường"
     }
 };
 export default patinaContent;

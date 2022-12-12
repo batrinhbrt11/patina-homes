@@ -1,23 +1,22 @@
 const imgSrc = {
     Home:{
-        FirstSectionImg:{
-            img1:"./asset/pic17.jpg"
+        BigImg:{
+
         },
-        ImageSection:{
-            img1:"./asset/pic8.jpg",
-            img2:"./asset/pic12.jpg",
-            img3:"./asset/pic13.jpg",
-            img4:"./asset/pic14.jpg",
-            img5:"./asset/pic15.jpg",
+        About:{
+            img1:"./asset/pic1.jpg"
         },
-        DetailSection:{
-            img1:"./asset/pic7.jpg"
+        Service:{
+            img1:"./asset/44-min.jpg"
         },
-        MemberSection:{
-            avt1:"./asset/avt1.jpg",
-            avt2:"./asset/avt2.jpg",
-            avt3:"./asset/avt3.jpg"
-        }
+        Style:{
+            img1:"./asset/style1.jpg",
+            img2:"./asset/style2.jpg",
+            img3:"./asset/style3.jpg",
+            img4:"./asset/style4.jpg",
+        },
+        
+
     },
 }
 export default imgSrc;
